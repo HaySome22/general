@@ -1,0 +1,19 @@
+[
+    {
+        "Author": "",
+        "Name": "GenTweaks",
+        "Description": "",
+        "InternalName": "GenTweaks",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 11,
+        "DownloadLinkInstall": "https://github.com/HaySome22/general/raw/master/plugins/GenTweaks/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/HaySome22/general/raw/master/plugins/GenTweaks/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/HaySome22/general/raw/master/plugins/GenTweaks/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1733349771"
+    }
+]
