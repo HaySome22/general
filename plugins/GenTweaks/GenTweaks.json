@@ -1,0 +1,16 @@
+{
+  "Author": "",
+  "Name": "GenTweaks",
+  "InternalName": "GenTweaks",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
